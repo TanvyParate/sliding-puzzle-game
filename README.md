@@ -1,6 +1,6 @@
 # 🧩 Sliding Puzzle Game
 
-A fun and interactive **3x3 sliding number puzzle** game built using **HTML, CSS, and JavaScript**. Challenge yourself to arrange the tiles in order — with a ticking timer and move counter to track your performance!
+A fun and interactive **4x4 sliding number puzzle** game built using **HTML, CSS, and JavaScript**. Challenge yourself to arrange the tiles in order — with a ticking timer and move counter to track your performance!
 
 ---
 
