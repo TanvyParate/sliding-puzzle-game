@@ -34,6 +34,9 @@ A fun and interactive **4x4 sliding number puzzle** game built using **HTML, CSS
 
 ---
 
+## 📬 Connect with Me
+🧠 @TCodeStudiobyTanvy – YouTube
+
 ## 🧑‍💻 Setup Instructions
 
 ```bash
