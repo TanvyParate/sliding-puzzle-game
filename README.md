@@ -2,8 +2,6 @@
 
 A fun and interactive **3x3 sliding number puzzle** game built using **HTML, CSS, and JavaScript**. Challenge yourself to arrange the tiles in order — with a ticking timer and move counter to track your performance!
 
-![Game Preview](preview.png) <!-- optional if you want to include a screenshot -->
-
 ---
 
 ## 🚀 Features
@@ -11,7 +9,6 @@ A fun and interactive **3x3 sliding number puzzle** game built using **HTML, CSS
 - 🔢 Move counter to track your steps
 - ⏱️ Timer to increase the challenge
 - 🌓 Light/Dark theme toggle
-- 🎀 Clean and responsive UI for desktop & mobile
 
 ---
 
@@ -31,7 +28,7 @@ A fun and interactive **3x3 sliding number puzzle** game built using **HTML, CSS
 
 ## 🧠 How to Play
 1. Click the **Start** button.
-2. Rearrange the tiles in order from 1 to 8.
+2. Rearrange the tiles in order from 1 to 15.
 3. The empty space helps you slide tiles.
 4. Try to complete it in **minimum moves and time**!
 
