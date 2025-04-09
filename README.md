@@ -14,8 +14,8 @@ A fun and interactive **4x4 sliding number puzzle** game built using **HTML, CSS
 
 ## 📸 Demo
 
-▶️ **Watch the video tutorial on YouTube**  
-🔗 [TCode Studio - Sliding Puzzle Game](https://www.youtube.com/your-video-link)
+▶️ **Watch the video on YouTube**  
+🔗 [Sliding Puzzle Game](https://youtu.be/qwuP0z1TZrc?si=TEFYZk9CVngzYcqK)
 
 ---
 
