@@ -35,7 +35,7 @@ A fun and interactive **4x4 sliding number puzzle** game built using **HTML, CSS
 ---
 
 ## 📬 Connect with Me  
-🧠 [@TCodeStudiobyTanvy](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
+🧠 [@TanvyCodeStudio](https://www.youtube.com/@TCodeStudiobyTanvy) – YouTube
 
 ## 🧑‍💻 Setup Instructions
 
